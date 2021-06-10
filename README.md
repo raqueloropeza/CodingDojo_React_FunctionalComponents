@@ -1,11 +1,11 @@
-#Objectives
+# Objectives
 1. Create a functional component called PersonCard that accepts the following props:
 
-    firstName
-    lastName
-    age
-    hairColor
-2.Then, display four PersonCard components that show four different people, using props.
+        firstName
+        lastName
+        age
+        hairColor
+2. Display four PersonCard components that show four different people, using props.
 
 # Getting Started with Create React App
 
